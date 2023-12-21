@@ -1,0 +1,191 @@
+Regions Code,Regions,Industry (current) (19 categories) Code,Industry (current) (19 categories),Observation
+E12000001,North East,-8,Does not apply,3825
+E12000001,North East,1,"A Agriculture, forestry and fishing",18
+E12000001,North East,2,B Mining and quarrying,1
+E12000001,North East,3,C Manufacturing,43
+E12000001,North East,4,"D Electricity, gas, steam and air conditioning supply",7
+E12000001,North East,5,"E Water supply; sewerage, waste management and remediation activities",2
+E12000001,North East,6,F Construction,34
+E12000001,North East,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,73
+E12000001,North East,8,H Transport and storage,26
+E12000001,North East,9,I Accommodation and food service activities,41
+E12000001,North East,10,J Information and communication,25
+E12000001,North East,11,K Financial and insurance activities,8
+E12000001,North East,12,L Real estate activities,1
+E12000001,North East,13,"M Professional, scientific and technical activities",31
+E12000001,North East,14,N Administrative and support service activities,26
+E12000001,North East,15,O Public administration and defence; compulsory social security,14
+E12000001,North East,16,P Education,58
+E12000001,North East,17,Q Human health and social work activities,74
+E12000001,North East,18,"R, S, T, U Other",26
+E12000002,North West,-8,Does not apply,12422
+E12000002,North West,1,"A Agriculture, forestry and fishing",131
+E12000002,North West,2,B Mining and quarrying,4
+E12000002,North West,3,C Manufacturing,233
+E12000002,North West,4,"D Electricity, gas, steam and air conditioning supply",6
+E12000002,North West,5,"E Water supply; sewerage, waste management and remediation activities",6
+E12000002,North West,6,F Construction,174
+E12000002,North West,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,505
+E12000002,North West,8,H Transport and storage,206
+E12000002,North West,9,I Accommodation and food service activities,201
+E12000002,North West,10,J Information and communication,102
+E12000002,North West,11,K Financial and insurance activities,31
+E12000002,North West,12,L Real estate activities,24
+E12000002,North West,13,"M Professional, scientific and technical activities",128
+E12000002,North West,14,N Administrative and support service activities,149
+E12000002,North West,15,O Public administration and defence; compulsory social security,41
+E12000002,North West,16,P Education,186
+E12000002,North West,17,Q Human health and social work activities,336
+E12000002,North West,18,"R, S, T, U Other",109
+E12000003,Yorkshire and The Humber,-8,Does not apply,9562
+E12000003,Yorkshire and The Humber,1,"A Agriculture, forestry and fishing",33
+E12000003,Yorkshire and The Humber,2,B Mining and quarrying,4
+E12000003,Yorkshire and The Humber,3,C Manufacturing,306
+E12000003,Yorkshire and The Humber,4,"D Electricity, gas, steam and air conditioning supply",8
+E12000003,Yorkshire and The Humber,5,"E Water supply; sewerage, waste management and remediation activities",8
+E12000003,Yorkshire and The Humber,6,F Construction,126
+E12000003,Yorkshire and The Humber,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,354
+E12000003,Yorkshire and The Humber,8,H Transport and storage,121
+E12000003,Yorkshire and The Humber,9,I Accommodation and food service activities,120
+E12000003,Yorkshire and The Humber,10,J Information and communication,56
+E12000003,Yorkshire and The Humber,11,K Financial and insurance activities,18
+E12000003,Yorkshire and The Humber,12,L Real estate activities,9
+E12000003,Yorkshire and The Humber,13,"M Professional, scientific and technical activities",90
+E12000003,Yorkshire and The Humber,14,N Administrative and support service activities,113
+E12000003,Yorkshire and The Humber,15,O Public administration and defence; compulsory social security,40
+E12000003,Yorkshire and The Humber,16,P Education,161
+E12000003,Yorkshire and The Humber,17,Q Human health and social work activities,202
+E12000003,Yorkshire and The Humber,18,"R, S, T, U Other",60
+E12000004,East Midlands,-8,Does not apply,6648
+E12000004,East Midlands,1,"A Agriculture, forestry and fishing",80
+E12000004,East Midlands,2,B Mining and quarrying,4
+E12000004,East Midlands,3,C Manufacturing,310
+E12000004,East Midlands,4,"D Electricity, gas, steam and air conditioning supply",7
+E12000004,East Midlands,5,"E Water supply; sewerage, waste management and remediation activities",3
+E12000004,East Midlands,6,F Construction,121
+E12000004,East Midlands,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,464
+E12000004,East Midlands,8,H Transport and storage,242
+E12000004,East Midlands,9,I Accommodation and food service activities,105
+E12000004,East Midlands,10,J Information and communication,43
+E12000004,East Midlands,11,K Financial and insurance activities,16
+E12000004,East Midlands,12,L Real estate activities,5
+E12000004,East Midlands,13,"M Professional, scientific and technical activities",78
+E12000004,East Midlands,14,N Administrative and support service activities,163
+E12000004,East Midlands,15,O Public administration and defence; compulsory social security,35
+E12000004,East Midlands,16,P Education,113
+E12000004,East Midlands,17,Q Human health and social work activities,248
+E12000004,East Midlands,18,"R, S, T, U Other",65
+E12000005,West Midlands,-8,Does not apply,11341
+E12000005,West Midlands,1,"A Agriculture, forestry and fishing",185
+E12000005,West Midlands,2,B Mining and quarrying,1
+E12000005,West Midlands,3,C Manufacturing,319
+E12000005,West Midlands,4,"D Electricity, gas, steam and air conditioning supply",9
+E12000005,West Midlands,5,"E Water supply; sewerage, waste management and remediation activities",10
+E12000005,West Midlands,6,F Construction,162
+E12000005,West Midlands,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,483
+E12000005,West Midlands,8,H Transport and storage,283
+E12000005,West Midlands,9,I Accommodation and food service activities,130
+E12000005,West Midlands,10,J Information and communication,76
+E12000005,West Midlands,11,K Financial and insurance activities,39
+E12000005,West Midlands,12,L Real estate activities,15
+E12000005,West Midlands,13,"M Professional, scientific and technical activities",119
+E12000005,West Midlands,14,N Administrative and support service activities,194
+E12000005,West Midlands,15,O Public administration and defence; compulsory social security,42
+E12000005,West Midlands,16,P Education,133
+E12000005,West Midlands,17,Q Human health and social work activities,256
+E12000005,West Midlands,18,"R, S, T, U Other",62
+E12000006,East of England,-8,Does not apply,7763
+E12000006,East of England,1,"A Agriculture, forestry and fishing",122
+E12000006,East of England,2,B Mining and quarrying,6
+E12000006,East of England,3,C Manufacturing,224
+E12000006,East of England,4,"D Electricity, gas, steam and air conditioning supply",6
+E12000006,East of England,5,"E Water supply; sewerage, waste management and remediation activities",13
+E12000006,East of England,6,F Construction,172
+E12000006,East of England,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,386
+E12000006,East of England,8,H Transport and storage,209
+E12000006,East of England,9,I Accommodation and food service activities,153
+E12000006,East of England,10,J Information and communication,143
+E12000006,East of England,11,K Financial and insurance activities,39
+E12000006,East of England,12,L Real estate activities,19
+E12000006,East of England,13,"M Professional, scientific and technical activities",148
+E12000006,East of England,14,N Administrative and support service activities,215
+E12000006,East of England,15,O Public administration and defence; compulsory social security,60
+E12000006,East of England,16,P Education,336
+E12000006,East of England,17,Q Human health and social work activities,450
+E12000006,East of England,18,"R, S, T, U Other",126
+E12000007,London,-8,Does not apply,29536
+E12000007,London,1,"A Agriculture, forestry and fishing",19
+E12000007,London,2,B Mining and quarrying,55
+E12000007,London,3,C Manufacturing,374
+E12000007,London,4,"D Electricity, gas, steam and air conditioning supply",42
+E12000007,London,5,"E Water supply; sewerage, waste management and remediation activities",22
+E12000007,London,6,F Construction,1229
+E12000007,London,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,1190
+E12000007,London,8,H Transport and storage,370
+E12000007,London,9,I Accommodation and food service activities,693
+E12000007,London,10,J Information and communication,707
+E12000007,London,11,K Financial and insurance activities,541
+E12000007,London,12,L Real estate activities,169
+E12000007,London,13,"M Professional, scientific and technical activities",936
+E12000007,London,14,N Administrative and support service activities,657
+E12000007,London,15,O Public administration and defence; compulsory social security,195
+E12000007,London,16,P Education,746
+E12000007,London,17,Q Human health and social work activities,1162
+E12000007,London,18,"R, S, T, U Other",561
+E12000008,South East,-8,Does not apply,15140
+E12000008,South East,1,"A Agriculture, forestry and fishing",349
+E12000008,South East,2,B Mining and quarrying,18
+E12000008,South East,3,C Manufacturing,281
+E12000008,South East,4,"D Electricity, gas, steam and air conditioning supply",6
+E12000008,South East,5,"E Water supply; sewerage, waste management and remediation activities",7
+E12000008,South East,6,F Construction,236
+E12000008,South East,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,490
+E12000008,South East,8,H Transport and storage,234
+E12000008,South East,9,I Accommodation and food service activities,307
+E12000008,South East,10,J Information and communication,276
+E12000008,South East,11,K Financial and insurance activities,90
+E12000008,South East,12,L Real estate activities,42
+E12000008,South East,13,"M Professional, scientific and technical activities",332
+E12000008,South East,14,N Administrative and support service activities,289
+E12000008,South East,15,O Public administration and defence; compulsory social security,130
+E12000008,South East,16,P Education,480
+E12000008,South East,17,Q Human health and social work activities,764
+E12000008,South East,18,"R, S, T, U Other",238
+E12000009,South West,-8,Does not apply,7859
+E12000009,South West,1,"A Agriculture, forestry and fishing",114
+E12000009,South West,2,B Mining and quarrying,7
+E12000009,South West,3,C Manufacturing,136
+E12000009,South West,4,"D Electricity, gas, steam and air conditioning supply",7
+E12000009,South West,5,"E Water supply; sewerage, waste management and remediation activities",7
+E12000009,South West,6,F Construction,93
+E12000009,South West,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,205
+E12000009,South West,8,H Transport and storage,84
+E12000009,South West,9,I Accommodation and food service activities,136
+E12000009,South West,10,J Information and communication,62
+E12000009,South West,11,K Financial and insurance activities,30
+E12000009,South West,12,L Real estate activities,15
+E12000009,South West,13,"M Professional, scientific and technical activities",87
+E12000009,South West,14,N Administrative and support service activities,99
+E12000009,South West,15,O Public administration and defence; compulsory social security,52
+E12000009,South West,16,P Education,168
+E12000009,South West,17,Q Human health and social work activities,330
+E12000009,South West,18,"R, S, T, U Other",89
+W92000004,Wales,-8,Does not apply,3491
+W92000004,Wales,1,"A Agriculture, forestry and fishing",5
+W92000004,Wales,2,B Mining and quarrying,1
+W92000004,Wales,3,C Manufacturing,67
+W92000004,Wales,4,"D Electricity, gas, steam and air conditioning supply",1
+W92000004,Wales,5,"E Water supply; sewerage, waste management and remediation activities",0
+W92000004,Wales,6,F Construction,29
+W92000004,Wales,7,G Wholesale and retail trade; repair of motor vehicles and motor cycles,65
+W92000004,Wales,8,H Transport and storage,25
+W92000004,Wales,9,I Accommodation and food service activities,59
+W92000004,Wales,10,J Information and communication,24
+W92000004,Wales,11,K Financial and insurance activities,4
+W92000004,Wales,12,L Real estate activities,4
+W92000004,Wales,13,"M Professional, scientific and technical activities",26
+W92000004,Wales,14,N Administrative and support service activities,27
+W92000004,Wales,15,O Public administration and defence; compulsory social security,23
+W92000004,Wales,16,P Education,58
+W92000004,Wales,17,Q Human health and social work activities,109
+W92000004,Wales,18,"R, S, T, U Other",38
